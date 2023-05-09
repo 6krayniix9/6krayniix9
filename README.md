@@ -18,5 +18,3 @@
 - 🍞 Voici mon [Portfolio](http://alouchi200.free.fr/portfolio)
 
 - 💻 Je développe en Java.
-
-[Discord](https://discord.gg/zone-delta)
