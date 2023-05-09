@@ -1,4 +1,4 @@
-<p align="center"> <img src="http://alouchi200.free.fr/portfolio/logo.png?size=480" alt="banner"/></a> </p>
+<p align="center"> <img src="http://alouchi200.free.fr/portfolio/logo.png?size=4096" alt="banner"/></a> </p>
 
 <h1 align="center">Salut moi c'est Alouchi</h1>
 <h3 align="center">Passionné dans le développement de serveur Minecraft</h3>
