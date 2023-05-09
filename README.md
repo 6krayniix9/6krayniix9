@@ -11,6 +11,4 @@
 
 - 💻 Je développe en Java.
 
-<h3 align="left">Discord</h3>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/772432869981290516)](https://discord.com/users/772432869981290516)
+[Discord](https://discord.gg/zone-delta)
