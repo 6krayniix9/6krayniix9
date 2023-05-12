@@ -1,7 +1,9 @@
 <h1 align="center">Salut moi c'est Alouchi</h1>
 <h3 align="center">Passionné dans le développement de serveur Minecraft</h3>
 
-- 🥜 Je créer depuis peu un serveur minecraft secret laboratory du nom de [SCP-Mystery](https://discord.gg/zQEJAyTssk)
+- 🥜 Je créer depuis peu un serveur minecraft secret laboratory du nom de [SCP-Mystery](https://discord.gg/e74A2rwhQw)
+
+- 🚦 Je suis développeur sur un serveur Half-Life RP MC du nom de [Last-Life](https://github.com/SCP-Mystery/Ares)
 
 - 🪖 Je développe en se moment un plugin de Modération & de Sanction du nom de [Ares](https://github.com/SCP-Mystery/Ares)
 
