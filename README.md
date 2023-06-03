@@ -5,8 +5,6 @@
 
 - 🚦 Je suis développeur sur un serveur Half-Life RP MC du nom de [Last-Life](https://github.com/SCP-Mystery/Ares)
 
-- 🪖 Je développe en se moment un plugin de Modération & de Sanction du nom de [Ares](https://github.com/SCP-Mystery/Ares)
-
 - 🔭 J'ai participer au développement de [Zone-Delta](https://zone-delta.xyz)
 
 - 🚌 J'ai développer un système qui gère les skins Azurium en jeux [AzuriumRestorer](https://github.com/MoiLaVie/AzuriomRestorer)
