@@ -1,19 +1,17 @@
-<h1 align="center">Salut moi c'est Alouchi</h1>
-<h3 align="center">Passionné dans le développement de serveur Minecraft</h3>
+<h1 align="center">Salut moi c'est Krayniix</h1>
+<h3 align="center">Passionné dans le développement</h3>
 
-- 🥜 Je développe depuis le 29/05/2023 sur [CallOfCraft](https://callofcraft.net/)
+- 🥜 Je développe depuis le 29/05/2023
 
-- 🚦 Je suis développeur sur un serveur Half-Life RP MC du nom de [Last-Life](https://github.com/SCP-Mystery/Ares)
+- 🚦 Je suis développeur 
 
-- 🔭 J'ai participer au développement de [Zone-Delta](https://zone-delta.xyz)
-
-- 🚌 J'ai développer un système qui gère les skins Azurium en jeux [AzuriumRestorer](https://github.com/MoiLaVie/AzuriomRestorer)
+- 🚌 J'ai développer un système 
 
 - 🛵 J'ai fais un API pour faire des scoreboards facilement (Jsp si ça marche tjr car ça date) [ScoreboardAPI](https://github.com/MoiLaVie/Scoreboard-API)
 
 - 💻 Un exemple de mon portfolio [Portfolio](https://github.com/MoiLaVie/Portfolio-Free)
 
-- 🫙 J'ai participer au site du Listenbourg [ListenPass](https://github.com/Listenbourg/ListenPASS) & [Traduction](https://github.com/Listenbourg/Traduction) *sous mon ancien compte [@Alouchi200](https://github.com/Alouchi200).* [Le site](https://listenbourg.vincelinise.com)
+- 🫙 J'ai participer au site du Listenbourg [ListenPass](https://github.com/Listenbourg/ListenPASS) & [Traduction](https://github.com/Listenbourg/Traduction) [Le site](https://listenbourg.vincelinise.com)
 
 - 🍞 Voici mon [Portfolio](http://alouchi200.free.fr/portfolio)
 
