@@ -3,9 +3,6 @@
 
 <h1 align="center">Hi <img width="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">, I'm Krayniix.</h1>
 
-<p style="margin: 15px;" align="center">
-    <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=F7BD18&background=FF1B1B00&center=true&vCenter=true&width=435&lines=Beginner+Developer+%F0%9F%92%BB;Co-Leader+Azarov+%F0%9F%90%A7;ZeerBot+%F0%9F%A4%96](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A73D&width=435&lines=Co-Leader+Azarov+%F0%9F%90%A7)">
-
 ### 📊 Stats :
 
 [![Krayniix's github stats](https://github-readme-stats.vercel.app/api?username=6krayniix9&show_icons=true&theme=midnight-purple&count_private=false)](https://github.com/6krayniix9)]
