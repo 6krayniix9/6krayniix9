@@ -21,7 +21,7 @@
 
 ### 📚 My Works :
 
-- `QG Azarov 🐧` : *discord of the Azarov family* [[Discord - Link](https://discord.gg/v6CdFJwW9f)]
+- `QG Azarov 🐧` : *discord of the Azarov family* [[Discord - Link](https://discord.gg/5UPm3j9W3U)]
 
 ### ✨ Contact me on :
 
