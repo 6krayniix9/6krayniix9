@@ -21,10 +21,10 @@
 
 ### 📚 My Works :
 
-- `QG Azarov 🐧` : *discord of the Azarov family* [[Discord - Link](https://discord.gg/5UPm3j9W3U)]
+- `QG Azarov 🐧` : *discord of the NZ Team* [[Discord - Link](https://discord.gg/nzteamserver)]
 
 ### ✨ Contact me on :
 
 <p>
-    	<a href="https://discord.com/invite/geFX6ZvuGC"><img width = "50px" alt="Discord" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" /></a>
+    	<a href="https://discord.gg/nzteamserver"><img width = "50px" alt="Discord" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" /></a>
 <p>
