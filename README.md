@@ -21,7 +21,7 @@
 
 ### 📚 My Works :
 
-- `QG Azarov 🐧` : *discord of the NZ Team* [[Discord - Link](https://discord.gg/nzteamserver)]
+- `QG Azarov 🐧` : *discord of the QG AZAROV* [[Discord - Link](https://discord.gg/aj5KNV7bp8)]
 
 ### ✨ Contact me on :
 
