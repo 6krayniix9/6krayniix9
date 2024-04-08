@@ -21,7 +21,7 @@
 
 ### 📚 My Works :
 
-- `QG Azarov 🐧` : *discord of the QG AZAROV* [[Discord - Link](https://discord.gg/aj5KNV7bp8)]
+- `Himawari 🌟` : *discord of the 🌟・Himawariii* [[Discord - Link](https://discord.gg/DY2UnZPUh9)]
 
 ### ✨ Contact me on :
 
