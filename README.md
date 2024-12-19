@@ -19,7 +19,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6krayniix9&layout=compact&theme=midnight-purple)](https://github.com/6krayniix9)
 
 📚 My Works :
-QG Higgins  : discord of the Higgins [Discord - Link]
+QG Higgins  : discord of the Higgins [[Discord - Link](https://discord.gg/84vpH5WWrM)]
 
 ✨ Contact me on :
 <p>
