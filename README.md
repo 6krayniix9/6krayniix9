@@ -18,9 +18,9 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6krayniix9&layout=compact&theme=midnight-purple)](https://github.com/6krayniix9)
 
 📚 My Works :
-Himawari 🌟 : discord of the 🌟・Himawariii [Discord - Link]
+QG Higgins  : discord of the Higgins [Discord - Link]
 
 ✨ Contact me on :
 <p>
-        <a href="https://discord.gg/nzteamserver"><img width = "50px" alt="Discord" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" /></a>
+        <a href="https://discord.gg/84vpH5WWrM"><img width = "50px" alt="Discord" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" /></a>
 <p>
